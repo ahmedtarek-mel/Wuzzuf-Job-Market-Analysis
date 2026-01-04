@@ -20,11 +20,6 @@
   <img src="screenshots/experience.png" width="45%" alt="Experience Levels"/>
 </div>
 
-### 📋 Detailed Listings
-<div align="center">
-  <img src="screenshots/details.png" width="800" alt="Job Details"/>
-</div>
-
 ## 🏗️ System Architecture
 
 The solution follows a modular "Extract-Transform-Load" (ETL) architecture.
