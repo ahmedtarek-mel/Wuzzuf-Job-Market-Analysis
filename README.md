@@ -3,8 +3,11 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/ahmedtarek-mel/Wuzzuf-Job-Market-Analysis/daily_scrape.yml?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
 ![Data](https://img.shields.io/badge/Data-Real%20Time-green?style=flat-square)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wuzzuf-job-market-analysis.streamlit.app/)
 
 ## Project Overview
+**[🔴 View Live Dashboard](https://wuzzuf-job-market-analysis.streamlit.app/)**
+
 **Wuzzuf Market Pulse** is a comprehensive, automated data analytics platform designed to monitor and visualize the Egyptian tech job market in real-time. By leveraging a custom-built scraping engine and a Streamlit-based visualization layer, the system provides actionable insights into hiring trends, high-demand skills, and market distribution.
 
 ## 📸 Project Showcase
@@ -19,6 +22,8 @@
   <img src="screenshots/role_analysis.png" width="45%" alt="Job Roles"/>
   <img src="screenshots/experience.png" width="45%" alt="Experience Levels"/>
 </div>
+
+
 
 ## 🏗️ System Architecture
 
