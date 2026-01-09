@@ -1,5 +1,8 @@
 # Wuzzuf Market Pulse - Job Market Analysis System
 
+<img src="data/wuzzuf.png" alt="wuzzuf Project Thumbnail" width="100%">
+
+<br>
 ![Build Status](https://img.shields.io/github/actions/workflow/status/ahmedtarek-mel/Wuzzuf-Job-Market-Analysis/daily_scrape.yml?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
 ![Data](https://img.shields.io/badge/Data-Real%20Time-green?style=flat-square)
