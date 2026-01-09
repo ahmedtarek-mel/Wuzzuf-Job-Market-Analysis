@@ -1,15 +1,25 @@
-# Wuzzuf Market Pulse - Job Market Analysis System
+<div align="center">
+  <img src="data/wuzzuf.png" alt="wuzzuf Project Thumbnail" width="100%">
 
-<img src="data/wuzzuf.png" alt="wuzzuf Project Thumbnail" width="100%">
+  # Wuzzuf Market Pulse - Job Market Analysis System
 
-<br>
-![Build Status](https://img.shields.io/github/actions/workflow/status/ahmedtarek-mel/Wuzzuf-Job-Market-Analysis/daily_scrape.yml?style=flat-square)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
-![Data](https://img.shields.io/badge/Data-Real%20Time-green?style=flat-square)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wuzzuf-job-market-analysis.streamlit.app/)
+  <p>
+    <img src="https://img.shields.io/github/actions/workflow/status/ahmedtarek-mel/Wuzzuf-Job-Market-Analysis/daily_scrape.yml?style=flat-square" alt="Build Status">
+    <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square" alt="Python Version">
+    <img src="https://img.shields.io/badge/Data-Real%20Time-green?style=flat-square" alt="Data Status">
+    <a href="https://wuzzuf-job-market-analysis.streamlit.app/">
+      <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+    </a>
+  </p>
+
+  <h3>
+    <a href="https://wuzzuf-job-market-analysis.streamlit.app/">🔴 View Live Dashboard</a>
+  </h3>
+</div>
+
+---
 
 ## Project Overview
-**[🔴 View Live Dashboard](https://wuzzuf-job-market-analysis.streamlit.app/)**
 
 **Wuzzuf Market Pulse** is a comprehensive, automated data analytics platform designed to monitor and visualize the Egyptian tech job market in real-time. By leveraging a custom-built scraping engine and a Streamlit-based visualization layer, the system provides actionable insights into hiring trends, high-demand skills, and market distribution.
 
